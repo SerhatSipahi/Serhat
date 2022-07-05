@@ -1,4 +1,4 @@
-public class c2_deneme {
+public class c2 {
 
     public static void main(String[] args) {
 
